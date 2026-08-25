@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "scope": "Seven user-approved public before-and-after showcase pairs. Full prompts and unrelated test media are excluded.",
+  "cases": [
+    {
+      "slug": "tree-lane-cyclist",
+      "title_en": "Tree Lane Cyclist",
+      "title_zh": "林荫骑行",
+      "before": "examples/showcase/tree-lane-cyclist-before.jpg",
+      "after": "examples/showcase/tree-lane-cyclist-after.jpg",
+      "mode": "decisive-element",
+      "anchor_en": "the foreground cyclist",
+      "anchor_zh": "前景骑车人",
+      "publication_approval": "2026-08-25"
+    },
+    {
+      "slug": "coastal-field-runner",
+      "title_en": "Coastal Field Runner",
+      "title_zh": "海岸草地奔跑者",
+      "before": "examples/showcase/coastal-field-runner-before.jpg",
+      "after": "examples/showcase/coastal-field-runner-after.jpg",
+      "mode": "decisive-element",
+      "anchor_en": "the small running figure",
+      "anchor_zh": "远处奔跑的人物",
+      "publication_approval": "2026-08-25"
+    },
+    {
+      "slug": "seaside-piano-gesture",
+      "title_en": "Seaside Piano Gesture",
+      "title_zh": "海边钢琴与手势",
+      "before": "examples/showcase/seaside-piano-gesture-before.jpg",
+      "after": "examples/showcase/seaside-piano-gesture-after.jpg",
+      "mode": "decisive-element",
+      "anchor_en": "the pink-shirted gesturing figure",
+      "anchor_zh": "穿粉色上衣、舒展手势的人物",
+      "publication_approval": "2026-08-25"
+    },
+    {
+      "slug": "orange-city-facade",
+      "title_en": "Orange City Facade",
+      "title_zh": "城市里的橙红立面",
+      "before": "examples/showcase/orange-city-facade-before.jpg",
+      "after": "examples/showcase/orange-city-facade-after.jpg",
+      "mode": "decisive-color",
+      "anchor_en": "one orange-red facade",
+      "anchor_zh": "一处橙红色建筑立面",
+      "publication_approval": "2026-08-25"
+    },
+    {
+      "slug": "tallest-palm",
+      "title_en": "Tallest Palm",
+      "title_zh": "最高的棕榈树",
+      "before": "examples/showcase/tallest-palm-before.jpg",
+      "after": "examples/showcase/tallest-palm-after.jpg",
+      "mode": "decisive-element",
+      "anchor_en": "the tallest right-hand palm",
+      "anchor_zh": "右侧最高的棕榈树",
+      "publication_approval": "2026-08-25"
+    },
+    {
+      "slug": "hyeopjae-turquoise-line",
+      "title_en": "Hyeopjae Turquoise Line",
+      "title_zh": "挟才海岸的绿松石色线",
+      "before": "examples/showcase/hyeopjae-turquoise-line-before.jpg",
+      "after": "examples/showcase/hyeopjae-turquoise-line-after.jpg",
+      "mode": "decisive-color",
+      "anchor_en": "the local turquoise water line behind the letters",
+      "anchor_zh": "字母后方的一段绿松石色海面",
+      "publication_approval": "2026-08-25"
+    },
+    {
+      "slug": "cliffside-witness",
+      "title_en": "Cliffside Witness",
+      "title_zh": "山崖前的观看者",
+      "before": "examples/showcase/cliffside-witness-before.jpg",
+      "after": "examples/showcase/cliffside-witness-after.jpg",
+      "mode": "decisive-element",
+      "anchor_en": "the small rear-view figure",
+      "anchor_zh": "面向山崖的背影人物",
+      "publication_approval": "2026-08-25"
+    }
+  ]
+}

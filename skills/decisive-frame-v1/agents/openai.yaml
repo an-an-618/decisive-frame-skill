@@ -1,0 +1,4 @@
+interface:
+  display_name: "决定性一帧 · Decisive Frame"
+  short_description: "将照片导演为唯一局部留色的16:9诗意水墨电影静帧工具"
+  default_prompt: "Use $decisive-frame-v1 to analyze this photo and offer 2–3 director candidates before generating a selective-color cinematic ink frame."
